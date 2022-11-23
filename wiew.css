@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#loancal{
+    width: 98.9vw;
+    height: 98.5vh;
+    background-color:rgba(5, 5, 5, 0.925);
+    color:white;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#months{
+    width: 175px;
+    height: 20px;
+}
+
+#interest{
+    width: 175px;
+    height: 20px;
+}
+
+#amount{
+    width: 175px;
+    height: 20px;
+}
+
+h1{
+    color:yellow;
+}
+
+h2{
+    color:rgb(46, 255, 46);
+    font-family: cursive;
+}
